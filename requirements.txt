@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas
+PyPDF2
+python-docx
+fpdf2
+openai
+docx
