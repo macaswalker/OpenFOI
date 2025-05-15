@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+*.env
+venv/
+.venv/
+tbi_venv/
+freshenv/
+env/
+# Mac OS
+.DS_Store
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/config.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Output directories (if any)
+data/responses/
+data/uploads/
+
+# Miscellaneous
+*.swp
+*~
+
+# You can add any other custom folders or files to ignore below:
