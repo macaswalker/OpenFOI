@@ -20,7 +20,7 @@ OpenFOI is your streamlined platform for managing Freedom of Information (FOI) r
 ## Demo
 
 [Watch a quick Canva walkthrough here!](https://www.canva.com/design/DAGn5YpjYlc/LoYqN7FnaQFg7Ep-LOB-bA/watch?utm_content=DAGn5YpjYlc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e125ca1c3)  
-*Replace `#` with your Loom link when available.*
+
 
 ## Getting Started
 
