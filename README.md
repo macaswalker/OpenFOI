@@ -2,7 +2,7 @@
 
 OpenFOI is your streamlined platform for managing Freedom of Information (FOI) requests. Submit, track, and process requests with ease—featuring AI-assisted drafting, document redaction, and export to PDF/DOCX.
 
-## 🚀 Features
+## Features
 
 - **Submit & Track Requests**  
   Create, log, and monitor FOI requests through every stage.
@@ -17,12 +17,12 @@ OpenFOI is your streamlined platform for managing Freedom of Information (FOI) r
 - **Sidebar Workflow Navigation**  
   Step-by-step interface for organized and transparent FOI processing.
 
-## 🎬 Demo
+## Demo
 
-[Watch a quick Loom walkthrough here!](#)  
+[Watch a quick Canva walkthrough here!](https://www.canva.com/design/DAGn5YpjYlc/LoYqN7FnaQFg7Ep-LOB-bA/watch?utm_content=DAGn5YpjYlc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e125ca1c3)  
 *Replace `#` with your Loom link when available.*
 
-## 🖥️ Getting Started
+## Getting Started
 
 1. **Clone the Repository**
     ```bash
@@ -43,5 +43,4 @@ OpenFOI is your streamlined platform for managing Freedom of Information (FOI) r
 4. **Open in Your Browser**  
    Visit [http://localhost:8501](http://localhost:8501) to get started!
 
-## 📁 Example FOI Request
 
